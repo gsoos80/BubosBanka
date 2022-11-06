@@ -1,0 +1,68 @@
+body {
+  margin: 0px 200px 0px 200px;
+  background-color: #e7e7ff;
+  color: #1d1d4e;
+  padding: 15px;
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  margin: 5px;
+  text-align: justify;
+}
+
+#balkep {
+  float: left;
+  border-width: 1px;
+  border-color: #1d1d4e;
+  margin-right: 15px;
+  width: 200px;
+}
+
+#jobbkep {
+  float: right;
+  width: 400px;
+  margin: 15px;
+  border-width: 1px;
+  border-color: #1d1d4e;
+}
+
+table {
+  box-shadow: 5px 5px 7px #1d1d4e;
+}
+
+td {
+  border: 1px dotted #1d1d4e;
+  padding: 2px 16px 2px;
+}
+
+td:first-child {
+  font-weight: bold;
+  text-align: right;
+}
+
+td:nth-child(2) {
+  font-style: italic;
+  text-align: left;
+}
+
+.fejsor {
+  text-align: center;
+  background-color: #1d1d4e;
+  color: #e7e7ff;
+}
+
+.forras {
+  text-align: center;
+  margin: 15px 75px 0px;
+  padding-top: 5px;
+  border-top: 1px solid #1d1d4e;
+  font-style: italic;
+}
+
+img {
+  box-shadow: 5px 5px 7px #1d1d4e;
+}
